@@ -72,7 +72,7 @@ def main():
     number, baseNumber, convBaseNumber = getNumbers()
     finalNum = convertNumber(number, baseNumber, convBaseNumber)
 
-    print(f"{number} in base {baseNumber} converted to base {convBaseNumber} is {finalNum}")
+    print(f"{number} in base {baseNumber} converted to base {convBaseNumber} is {finalNum}\n\n")
 
 
 while True:
